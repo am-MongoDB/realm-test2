@@ -1,7 +1,3 @@
 {
-    "app_id": "rchatcopy-niwqu",
-    "config_version": 20210101,
-    "name": "RChatCopy",
-    "location": "US-VA",
-    "deployment_model": "LOCAL"
+    "config_version": 20210101
 }
